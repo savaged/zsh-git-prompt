@@ -2,7 +2,7 @@
 from __future__ import print_function
 
 # change this symbol to whatever you prefer
-prehash = ':'
+prehash = ' '
 
 from subprocess import Popen, PIPE
 
